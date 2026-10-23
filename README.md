@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Gabriel Araújo
 
-🎓 Estudante de Ciência da Computação — 7º período  
+🎓 Estudante de Ciência da Computação — 8º período  
 💻 Desenvolvedor em formação com foco em **Java** e **desenvolvimento backend**  
   Recife, PE — Brasil
 
